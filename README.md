@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Ian 👋
 
-<!--
-**iangonzalezgarciaa-blip/iangonzalezgarciaa-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend / HTML Email Developer  
+Focused on responsive layouts and email compatibility.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- HTML5
+- CSS3
+- HTML Emails (tables, inline styles, responsiveness)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+### HTML Email Practice
+🔗 Repo: https://github.com/iangonzalezgarciaa-blip/Practica-Emails-por-pdf-1  
+🌐 Demo: https://iangonzalezgarciaa-blip.github.io/Practica-Emails-por-pdf-1/
+
+## 🎯 Goal
+Looking for freelance opportunities and junior roles related to
+HTML email development and frontend layout work.
+_______________________________________________________________________________
+# Hola, soy Ian 👋
+
+Desarrollador Junior Frontend enfocado en **HTML, CSS y maquetación de emails**.  
+Actualmente construyendo proyectos prácticos orientados a trabajos freelance y primeras oportunidades profesionales.
+
+---
+
+## 🛠️ Tecnologías y habilidades
+
+- HTML5
+- CSS3
+- Maquetación de **HTML Emails**
+  - Estructura con tablas
+  - Diseño responsive
+  - Compatibilidad entre clientes de correo
+- Git & GitHub
+- GitHub Pages
+
+---
+
+## 📌 Proyecto destacado
+
+### 📧 Práctica de Email en HTML
+
+Proyecto enfocado en la construcción de un email HTML funcional y presentable, similar a los solicitados en trabajos reales de freelancing.
+
+🔗 **Repositorio:**  
+https://github.com/iangonzalezgarciaa-blip/Practica-Emails-por-pdf-1
+
+🌐 **Demo en vivo:**  
+https://iangonzalezgarciaa-blip.github.io/Practica-Emails-por-pdf-1/
+
+**Qué se practicó:**
+- Traducción de diseño a HTML/CSS
+- Estructura correcta para emails
+- Organización de archivos
+- Uso de Git para control de versiones
+
+---
+
+## 🎯 Objetivo
+
+Seguir desarrollando proyectos prácticos para:
+- Trabajos freelance (Upwork, similares)
+- Puestos junior de frontend
+- Desarrollo y maquetación de emails HTML
+
+---
+
+📫 Abierto a aprender, mejorar y colaborar en proyectos reales.
