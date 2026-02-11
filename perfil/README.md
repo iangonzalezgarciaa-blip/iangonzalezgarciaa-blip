@@ -1,63 +1,72 @@
-# ?? Ian Gonz�lez Garc�a
+# :wave: Ian Gonzalez Garcia
 
-?? Full Stack Developer in Training (Front-End + Back-End) | Web Projects | Git and GitHub
+## :rocket: Full Stack Developer in Training | Front-End + Back-End
 
-==================================================
+## :briefcase: Main Portfolio (Most Important)
+:link: https://iangonzalezgarciaa-blip.github.io/Desafio-6-Portafolio-Final/
 
-# ? PORTAFOLIO PRINCIPAL / MAIN PORTFOLIO (MOST IMPORTANT)
-?? https://iangonzalezgarciaa-blip.github.io/Desafio-6-Portafolio-Final/
+_This portfolio is my central hub to explore projects, skills and professional growth._
 
-_Este link es mi hub central para acceder a todos mis proyectos._
-_This link is my main hub to access all my projects._
+---
 
---------------------------------------------------
+# EN ESPAÑOL:
 
-## ???? Presentaci�n
-Soy desarrollador __Full Stack en formaci�n__ en el programa de __Desaf�o Latam__.
-Construyo proyectos web funcionales con estructura clara, buen orden de repositorios y documentaci�n.
+## :bust_in_silhouette: Perfil Profesional
 
-### ? Lo que puedo aportar
-- ?? Front-End: HTML, CSS, Responsive Design, JavaScript b�sico
-- ?? Back-End: fundamentos, estructura de aplicaci�n, l�gica y manejo de datos (a nivel formativo)
-- ??? Git y GitHub: commits, ramas, buenas pr�cticas, repos limpios
-- ?? Documentaci�n: README claros, pasos reproducibles, orden profesional
+Soy **Full Stack Developer en formacion**, actualmente cursando el programa **Desafio Latam**.  
+Me especializo en desarrollar proyectos web funcionales, bien estructurados y correctamente documentados, con foco en el orden, la claridad y las buenas practicas desde el inicio.
 
-### ?? En qu� roles puedo encajar
-- Desarrollo web (junior/trainee)
-- Soporte t�cnico y documentaci�n
-- QA b�sico y control de calidad
-- Equipos mixtos: tecnolog�a + operaci�n/administraci�n
+Mi perfil se caracteriza por una combinacion de **desarrollo tecnico**, **criterio profesional** y **capacidad de documentacion**, orientado a entregar proyectos faciles de entender, evaluar y mantener.
 
---------------------------------------------------
+### :gear: Habilidades Tecnicas
+- **Front-End:** HTML, CSS, Responsive Design, JavaScript basico
+- **Back-End:** fundamentos de logica, estructura de aplicaciones y manejo de datos (nivel formativo)
+- **Git y GitHub:** control de versiones, commits claros, ramas y repositorios ordenados
+- **Documentacion:** README profesionales, instrucciones reproducibles y estructura clara
 
-## ???? Professional Summary
-I am a __Full Stack developer in training__ in the __Desaf�o Latam__ program.
-I build functional web projects with clean structure, organized repositories and clear documentation.
+### :briefcase: Roles de Interes
+- Desarrollo web junior / trainee
+- Soporte tecnico y documentacion
+- QA basico y control de calidad
+- Equipos mixtos: tecnologia + operacion / administracion
 
-### ? What I can do
-- ?? Front-End: HTML, CSS, Responsive Design, basic JavaScript
-- ?? Back-End: fundamentals, application structure, logic and data handling concepts (training level)
-- ??? Git and GitHub: commits, branches, good practices, clean repos
-- ?? Documentation: clear READMEs, reproducible steps, professional structure
+---
 
-### ?? Roles I am open to
-- Web development (junior/trainee)
+# IN ENGLISH:
+
+## :bust_in_silhouette: Professional Summary
+
+I am a **Full Stack Developer in training**, currently enrolled in the **Desafio Latam** program.  
+I specialize in building functional web projects that are well structured and properly documented, with a strong focus on clarity, organization and good practices from the very beginning.
+
+My profile is defined by a combination of **technical development**, **professional judgment** and **clear documentation**, aiming to deliver projects that are easy to understand, evaluate and maintain.
+
+### :gear: Technical Skills
+- **Front-End:** HTML, CSS, Responsive Design, basic JavaScript
+- **Back-End:** fundamentals of logic, application structure and data handling (training level)
+- **Git and GitHub:** version control, clean commits, branches and well organized repositories
+- **Documentation:** professional READMEs, reproducible steps and clear structure
+
+### :briefcase: Roles I Am Open To
+- Junior / trainee web development
 - Technical support and documentation
 - Basic QA and quality control
-- Hybrid teams: tech + operations/administration
+- Hybrid teams: tech + operations / administration
 
---------------------------------------------------
+---
 
-## ?? Repositorios / Repositories
-- GitHub repos: https://github.com/iangonzalezgarciaa-blip?tab=repositories
+## :file_folder: Repositories
+:link: https://github.com/iangonzalezgarciaa-blip?tab=repositories
 
-## ?? Contacto / Contact
-- GitHub: https://github.com/iangonzalezgarciaa-blip
-- Email: iangonzalezgarciaa@gmail.com
+---
 
---------------------------------------------------
+## :mailbox: Contact
+- **GitHub:** https://github.com/iangonzalezgarciaa-blip
+- **Email:** iangonzalezgarciaa@gmail.com
 
-## ?? Para actualizar en el futuro / Future updates
-- Agregar experiencia / Add experience
-- Agregar certificaciones / Add certifications
-- Agregar 3 a 6 proyectos clave con links y descripci�n corta / Add 3 to 6 key projects with links and short descriptions
+---
+
+## :construction: Future Updates
+- Add professional experience
+- Add certifications
+- Highlight 3 to 6 key projects with links and short descriptions
