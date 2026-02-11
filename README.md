@@ -1,4 +1,4 @@
-# ?? Ian Gonz lez Garc¡a
+ï»¿# ?? Ian GonzÂ lez GarcÂ¡a
 
 ?? Full Stack Developer in Training (Front-End + Back-End) | Web Projects | Git and GitHub
 
@@ -12,26 +12,26 @@ _This link is my main hub to access all my projects._
 
 --------------------------------------------------
 
-## ???? Presentaci¢n
-Soy desarrollador __Full Stack en formaci¢n__ en el programa de __Desaf¡o Latam__.
-Construyo proyectos web funcionales con estructura clara, buen orden de repositorios y documentaci¢n.
+## ???? PresentaciÂ¢n
+Soy desarrollador __Full Stack en formaciÂ¢n__ en el programa de __DesafÂ¡o Latam__.
+Construyo proyectos web funcionales con estructura clara, buen orden de repositorios y documentaciÂ¢n.
 
 ### ? Lo que puedo aportar
-- ?? Front-End: HTML, CSS, Responsive Design, JavaScript b sico
-- ?? Back-End: fundamentos, estructura de aplicaci¢n, l¢gica y manejo de datos (a nivel formativo)
-- ??? Git y GitHub: commits, ramas, buenas pr cticas, repos limpios
-- ?? Documentaci¢n: README claros, pasos reproducibles, orden profesional
+- ?? Front-End: HTML, CSS, Responsive Design, JavaScript bÂ sico
+- ?? Back-End: fundamentos, estructura de aplicaciÂ¢n, lÂ¢gica y manejo de datos (a nivel formativo)
+- ??? Git y GitHub: commits, ramas, buenas prÂ cticas, repos limpios
+- ?? DocumentaciÂ¢n: README claros, pasos reproducibles, orden profesional
 
-### ?? En qu‚ roles puedo encajar
+### ?? En quâ€š roles puedo encajar
 - Desarrollo web (junior/trainee)
-- Soporte t‚cnico y documentaci¢n
-- QA b sico y control de calidad
-- Equipos mixtos: tecnolog¡a + operaci¢n/administraci¢n
+- Soporte tâ€šcnico y documentaciÂ¢n
+- QA bÂ sico y control de calidad
+- Equipos mixtos: tecnologÂ¡a + operaciÂ¢n/administraciÂ¢n
 
 --------------------------------------------------
 
 ## ???? Professional Summary
-I am a __Full Stack developer in training__ in the __Desaf¡o Latam__ program.
+I am a __Full Stack developer in training__ in the __DesafÂ¡o Latam__ program.
 I build functional web projects with clean structure, organized repositories and clear documentation.
 
 ### ? What I can do
@@ -60,4 +60,4 @@ I build functional web projects with clean structure, organized repositories and
 ## ?? Para actualizar en el futuro / Future updates
 - Agregar experiencia / Add experience
 - Agregar certificaciones / Add certifications
-- Agregar 3 a 6 proyectos clave con links y descripci¢n corta / Add 3 to 6 key projects with links and short descriptions
+- Agregar 3 a 6 proyectos clave con links y descripciÂ¢n corta / Add 3 to 6 key projects with links and short descriptions
